@@ -1,0 +1,56 @@
+body {
+  background-color: #c0d2d4;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+text-align: center;
+margin-top: 50px;
+font-size: 2rem;
+letter-spacing: 5px;
+width: 300px;
+margin-left: 500px;
+background-color: #2ec2b0;
+color: white;
+padding: 20px;
+}
+
+.card {
+  margin-top:70px;
+  margin-left: 100px;
+  background-color: white;
+  height: 300px;
+  width: 300px;
+  box-shadow: 1px 1px 9px grey;
+  display: inline-block;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  margin-left: 120px;
+  margin-top: 20px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.title {
+  position: absolute;
+  width: 200px;
+  margin:80px 50px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #2ec2b0;
+}
+
+.content {
+  position: absolute;
+  width: 200px;
+  margin-top: 160px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 20px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  color: black;
+}
